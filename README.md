@@ -5,7 +5,7 @@ Scrape MagicBricks property listings across Indian cities: price, BHK, carpet ar
 **Run it on Apify:** [apify.com/themineworks/magicbricks-scraper](https://apify.com/themineworks/magicbricks-scraper)
 **Docs, FAQ and pricing:** [themineworks.com/actors/magicbricks-scraper](https://themineworks.com/actors/magicbricks-scraper/)
 
-**Price:** $1.00 per 1,000 properties on Apify's free plan, down to $0.60 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged.
+**Price:** From $0.60 per 1,000 properties on Apify's higher plans ($1.00 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
